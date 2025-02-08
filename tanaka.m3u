@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:0,INDOSIAR HD
+#EXTINF:0,Indosiar HD
 http://192.168.1.12:8999/stream=117.ts
-#EXTINF:0,MOJI HD
+#EXTINF:0,Moji HD
 http://192.168.1.12:8999/stream=118.ts
-#EXTINF:0,MENTARI HD
+#EXTINF:0,MentariTV HD
 http://192.168.1.12:8999/stream=119.ts
-#EXTINF:0,KOMPASTV HD
+#EXTINF:0,KompasTV HD
 http://192.168.1.12:8999/stream=114.ts
 #EXTINF:0,SCTV HD
 http://192.168.1.12:8999/stream=116.ts
-#EXTINF:0,REPUBLIKA TV
+#EXTINF:0,Republika TV
 http://192.168.1.12:8999/stream=113.ts
 #EXTINF:0,BTV HD
 http://192.168.1.12:8999/stream=124.ts
@@ -29,27 +29,27 @@ http://192.168.1.12:8999/stream=128.ts
 http://192.168.1.12:8999/stream=129.ts
 #EXTINF:0,MNCTV HD
 http://192.168.1.12:8999/stream=130.ts
-#EXTINF:0,SMILE TV HD
+#EXTINF:0,SmileTV HD
 http://192.168.1.12:8999/stream=134.ts
-#EXTINF:0,BN CHANNEL HD
+#EXTINF:0,BN Channel HD
 http://192.168.1.12:8999/stream=132.ts
 #EXTINF:0,UGTV
 http://192.168.1.12:8999/stream=133.ts
-#EXTINF:0,MAGNA TV HD
+#EXTINF:0,MagnaTV HD
 http://192.168.1.12:8999/stream=131.ts
-#EXTINF:0,METRO TV HD
+#EXTINF:0,MetroTV HD
 http://192.168.1.12:8999/stream=135.ts
-#EXTINF:0,GARUDA TV HD
+#EXTINF:0,GarudaTV HD
 http://192.168.1.12:8999/stream=137.ts
-#EXTINF:0,Jawapos TV
+#EXTINF:0,JawaposTV
 http://192.168.1.12:8999/stream=138.ts
 #EXTINF:0,VTV HD
 http://192.168.1.12:8999/stream=146.ts
 #EXTINF:0,JAKTV
 http://192.168.1.12:8999/stream=139.ts
-#EXTINF:0,BERITA NASIONAL TV HD
+#EXTINF:0,Berita Nasional TV HD
 http://192.168.1.12:8999/stream=140.ts
-#EXTINF:0,TVONE HD
+#EXTINF:0,tvOne HD
 http://192.168.1.12:8999/stream=141.ts
 #EXTINF:0,ANTV HD
 http://192.168.1.12:8999/stream=142.ts
@@ -57,43 +57,43 @@ http://192.168.1.12:8999/stream=142.ts
 http://192.168.1.12:8999/stream=143.ts
 #EXTINF:0,SINPO TV HD
 http://192.168.1.12:8999/stream=145.ts
-#EXTINF:0,TRANS 7 HD
+#EXTINF:0,Trans7 HD
 http://192.168.1.12:8999/stream=149.ts
-#EXTINF:0,Nusantara TV HD
+#EXTINF:0,NusantaraTV HD
 http://192.168.1.12:8999/stream=153.ts
-#EXTINF:0,TRANS TV HD
+#EXTINF:0,TransTV HD
 http://192.168.1.12:8999/stream=154.ts
-#EXTINF:0,Rodja TV HD
+#EXTINF:0,RodjaTV HD
 http://192.168.1.12:8999/stream=152.ts
-#EXTINF:0,CNN INDONESIA HD 
+#EXTINF:0,CNN Indonesia HD 
 http://192.168.1.12:8999/stream=150.ts
 #EXTINF:0,MDTV HD
 http://192.168.1.12:8999/stream=151.ts
-#EXTINF:0,CNBC INDONESIA HD
+#EXTINF:0,CNBC Indonesia HD
 http://192.168.1.12:8999/stream=147.ts
-#EXTINF:0,TVRI SPORT HD
+#EXTINF:0,TVRI Sport HD
 http://192.168.1.12:8999/stream=164.ts
-#EXTINF:0,ELSHINTATV
+#EXTINF:0,ElshintaTV
 http://192.168.1.12:8999/stream=165.ts
 #EXTINF:0,BR TV
 http://192.168.1.12:8999/stream=166.ts
-#EXTINF:0,Inspira TV
+#EXTINF:0,InspiraTV
 http://192.168.1.12:8999/stream=168.ts
 #EXTINF:0,DAAI tv
 http://192.168.1.12:8999/stream=155.ts
 #EXTINF:0,TVRI Jakarta HD
 http://192.168.1.12:8999/stream=157.ts
-#EXTINF:0,TVRI NASIONAL HD
+#EXTINF:0,TVRI Nasional HD
 http://192.168.1.12:8999/stream=158.ts
-#EXTINF:0,TVRI WORLD HD
+#EXTINF:0,TVRI World HD
 http://192.168.1.12:8999/stream=160.ts
 #EXTINF:0,Nusantara TV HD
 http://192.168.1.12:8999/stream=162.ts
 #EXTINF:0,tvMu
 http://192.168.1.12:8999/stream=163.ts
-#EXTINF:0,RRI Radio Pro 2 (Test)
+#EXTINF:0,RRI Radio Pro 2
 http://192.168.1.12:8999/stream=159.ts
-#EXTINF:0,Radio TVRI 1 (Test)
+#EXTINF:0,Radio TVRI 1
 http://192.168.1.12:8999/stream=161.ts
-#EXTINF:0,Radio TVRI 2 (Test)
+#EXTINF:0,Radio TVRI 2
 http://192.168.1.12:8999/stream=167.ts
