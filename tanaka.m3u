@@ -68,21 +68,21 @@ http://192.168.1.12:8999/stream=149.ts
 http://192.168.1.12:8999/stream=153.ts
 #EXTINF:-1 tvg-id="TRANS TV.id" tvg-logo="https://iili.io/JMp3ZUG.png" group-title="FTA",TransTV HD
 http://192.168.1.12:8999/stream=154.ts
-#EXTINF:0,RodjaTV HD
+#EXTINF:-1 tvg-id="Rodja.id" tvg-logo="https://rodja.tv/site/wp-content/uploads/2023/02/logo-rodjatv-box.png" group-title="FTA",RodjaTV
 http://192.168.1.12:8999/stream=152.ts
 #EXTINF:-1 tvg-id="CNN Indonesia.id" tvg-logo="https://iili.io/JV3xSnt.png" group-title="FTA",CNN Indonesia HD 
 http://192.168.1.12:8999/stream=150.ts
-#EXTINF:0,MDTV HD
+#EXTINF:-1 tvg-id="NET.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG4OQ0sJB5y1yfwFmI3jnR8lKQmzc5I59kEw&s" group-title="FTA",MDTV HD
 http://192.168.1.12:8999/stream=151.ts
 #EXTINF:-1 tvg-id="CNBC Indonesia.id" tvg-logo="https://iili.io/28yAlAN.png" group-title="FTA",CNBC Indonesia HD
 http://192.168.1.12:8999/stream=147.ts
 #EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://iili.io/JMp3DJf.png" group-title="FTA",TVRI Sport HD
 http://192.168.1.12:8999/stream=164.ts
-#EXTINF:0,ElshintaTV
+#EXTINF:-1 tvg-id="ElshintaTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/GogbTzF_ToPwtx3DeWrCO7HrlUk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/10975/tes-elshinta-tv-eb36eb.jpg" group-title="FTA",ElshintaTV
 http://192.168.1.12:8999/stream=165.ts
-#EXTINF:0,BR TV
+#EXTINF:-1 tvg-id="BRTV.id" tvg-logo="https://brtv.co.id/wp-content/uploads/2023/06/cropped-WhatsApp-Image-2023-06-20-at-11.23.48.jpeg" group-title="FTA",BRTV
 http://192.168.1.12:8999/stream=166.ts
-#EXTINF:0,InspiraTV
+#EXTINF:-1 tvg-id="InspiraTV.id" tvg-logo="https://i1.sndcdn.com/avatars-000065274675-9foq2u-t240x240.jpg" group-title="FTA",InspiraTV
 http://192.168.1.12:8999/stream=168.ts
 #EXTINF:-1 tvg-id="Daai TV.id" tvg-logo="https://iili.io/JMp3WNV.png" group-title="FTA",Da Ai TV SD
 http://192.168.1.12:8999/stream=155.ts
@@ -94,7 +94,7 @@ http://192.168.1.12:8999/stream=158.ts
 http://192.168.1.12:8999/stream=160.ts
 #EXTINF:-1 tvg-id="Nusantara TV.id" tvg-logo="https://iili.io/2W8UsX2.png" group-title="FTA",Nusantara TV HD
 http://192.168.1.12:8999/stream=162.ts
-#EXTINF:0,tvMu
+#EXTINF:-1 tvg-id="tvMu.id" tvg-logo="https://tvmuhammadiyah.id/wp-content/uploads/2023/10/ico-300x300.png" group-title="FTA",tvMu
 http://192.168.1.12:8999/stream=163.ts
 #EXTINF:-1 tvg-logo="https://iili.io/2s9Y5PV.png" group-title="RADIO",Pro 2 RRI Jakarta
 http://192.168.1.12:8999/stream=159.ts
