@@ -8,13 +8,13 @@
 http://192.168.1.12:8999/stream=117.ts
 #EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://iili.io/JMp3vUJ.png" group-title="FTA",Moji HD
 http://192.168.1.12:8999/stream=118.ts
-#EXTINF:-1 tvg-id="Mentari TV.id" tvg-logo="https://iili.io/JmoB4cX.png" group-title="KIDS",Mentari TV
+#EXTINF:-1 tvg-id="Mentari TV.id" tvg-logo="https://iili.io/JmoB4cX.png" group-title="KIDS",Mentari TV HD
 http://192.168.1.12:8999/stream=119.ts
 #EXTINF:-1 tvg-id="Kompas TV.id" tvg-logo="https://iili.io/JV3x6cG.png" group-title="FTA",Kompas TV HD
 http://192.168.1.12:8999/stream=114.ts
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://iili.io/JMp3iiX.png" group-title="FTA",SCTV HD
 http://192.168.1.12:8999/stream=116.ts
-#EXTINF:0,Republika TV SD
+#EXTINF:-1 tvg-id="RepublikaTV.id" tvg-logo="https://pbs.twimg.com/profile_images/1227616073903558658/eMK4_lYI_400x400.jpg" group-title="FTA",RepublikaTV SD
 http://192.168.1.12:8999/stream=113.ts
 #EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://iili.io/28yoB87.png" group-title="FTA",BTV HD
 http://192.168.1.12:8999/stream=124.ts
@@ -22,9 +22,9 @@ http://192.168.1.12:8999/stream=124.ts
 http://192.168.1.12:8999/stream=120.ts
 #EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://iili.io/JMp3PVt.png" group-title="FTA",RTV HD1
 http://192.168.1.12:8999/stream=121.ts
-#EXTINF:0,KTV SD
+#EXTINF:-1 tvg-id="KTV.id" tvg-logo="https://scontent.fdps17-1.fna.fbcdn.net/v/t39.30808-6/309065539_408889378085918_5306307662113469747_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFsFGd-EIGadjR2AKzFbMkdHGB0ZEegBnMcYHRkR6AGc03bvo-L8F1LhpTahbmNNGk&_nc_ohc=5k913YODjBsQ7kNvgHLXe5p&_nc_oc=Adi-Y5CMkcXkXq04cIDK7GFxDqY1S9TbEfCATh-KlZKWkOEJlFxXF0_8tabThOqtFBE&_nc_zt=23&_nc_ht=scontent.fdps17-1.fna&_nc_gid=AqCq9BYNRKmy3xzzBWzNvgv&oh=00_AYDpSZc2XkBsIomi9ql5v6aqVLIrFL7y1pYsBNHwlQYbFQ&oe=67B54125" group-title="FTA",KTV
 http://192.168.1.12:8999/stream=122.ts
-#EXTINF:0,CTV HD
+#EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d0/Logo_CTV_Indonesia.png" group-title="FTA",CTV MOS HD
 http://192.168.1.12:8999/stream=123.ts
 #EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-logo="https://iili.io/JV3x4Fs.png" group-title="FTA",iNews HD
 http://192.168.1.12:8999/stream=126.ts
@@ -34,7 +34,7 @@ http://192.168.1.12:8999/stream=128.ts
 http://192.168.1.12:8999/stream=129.ts
 #EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-logo="https://iili.io/JMp3kla.png" group-title="FTA",MNCTV HD
 http://192.168.1.12:8999/stream=130.ts
-#EXTINF:0,SmileTV HD
+#EXTINF:-1 tvg-id="SMILETV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwOSLwDbIVJThyacjGtAvlZdDOdE9zN602AA&s" group-title="FTA",SmileTV HD
 http://192.168.1.12:8999/stream=134.ts
 #EXTINF:-1 tvg-logo="https://iili.io/JbtCoiu.png" group-title="FTA",BN Channel HD
 http://192.168.1.12:8999/stream=132.ts
