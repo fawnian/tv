@@ -38,7 +38,7 @@ http://192.168.1.12:8999/stream=130.ts
 http://192.168.1.12:8999/stream=134.ts
 #EXTINF:-1 tvg-logo="https://iili.io/JbtCoiu.png" group-title="FTA",BN Channel HD
 http://192.168.1.12:8999/stream=132.ts
-#EXTINF:0,UGTV
+#EXTINF:-1 tvg-logo="https://ugtv.co.id/wp-content/uploads/2021/02/logo-ug-300x300.png" group-title="FTA",UGTV
 http://192.168.1.12:8999/stream=133.ts
 #EXTINF:-1 tvg-logo="https://iili.io/JMp3eKg.png" group-title="FTA",MagnaTV HD
 http://192.168.1.12:8999/stream=131.ts
@@ -52,15 +52,15 @@ http://192.168.1.12:8999/stream=138.ts
 http://192.168.1.12:8999/stream=146.ts
 #EXTINF:-1 tvg-id="Jaktv.id" tvg-logo="https://iili.io/Jbtnm4s.png" group-title="LOKAL",JakTV HD
 http://192.168.1.12:8999/stream=139.ts
-#EXTINF:0,Berita Nasional TV HD
+#EXTINF:-1 tvg-id="BeritaNasional.id" tvg-logo="https://yt3.googleusercontent.com/uBuAy04swTBlMRFqh3O_rwVfQu5E8_vfT_g7dp1U-TlZ6HObJZbB7ORg6bBF6Il2mbO5ivPfQrQ=s900-c-k-c0x00ffffff-no-rj" group-title="LOKAL",BeritaNasionalTV HD
 http://192.168.1.12:8999/stream=140.ts
 #EXTINF:-1 tvg-id="TVOne.id" tvg-logo="https://iili.io/JV3xDo7.png" group-title="FTA",tvOne HD
 http://192.168.1.12:8999/stream=141.ts
 #EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://iili.io/JMp31cb.png" group-title="FTA",antv HD
 http://192.168.1.12:8999/stream=142.ts
-#EXTINF:0,MDTV HD
+#EXTINF:-1 tvg-id="NET.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG4OQ0sJB5y1yfwFmI3jnR8lKQmzc5I59kEw&s" group-title="FTA",MDTV HD
 http://192.168.1.12:8999/stream=143.ts
-#EXTINF:0,SINPO TV HD
+#EXTINF:-1 tvg-id="SINPO.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe1lUa5vMRlF7HhtOKJU6BpNPwjOzMIttwQg&s" group-title="FTA",SinpoTV HD
 http://192.168.1.12:8999/stream=145.ts
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://iili.io/JMp3Qls.png" group-title="FTA",Trans 7
 http://192.168.1.12:8999/stream=149.ts
