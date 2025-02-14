@@ -8,7 +8,7 @@
 http://192.168.1.12:8999/stream=117.ts
 #EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://iili.io/JMp3vUJ.png" group-title="FTA",Moji HD
 http://192.168.1.12:8999/stream=118.ts
-#EXTINF:-1 tvg-id="Mentari TV.id" tvg-logo="https://iili.io/JmoB4cX.png" group-title="KIDS",Mentari TV HD
+#EXTINF:-1 tvg-id="Mentari TV.id" tvg-logo="https://iili.io/JmoB4cX.png" group-title="FTA",Mentari TV HD
 http://192.168.1.12:8999/stream=119.ts
 #EXTINF:-1 tvg-id="Kompas TV.id" tvg-logo="https://iili.io/JV3x6cG.png" group-title="FTA",Kompas TV HD
 http://192.168.1.12:8999/stream=114.ts
@@ -50,9 +50,9 @@ http://192.168.1.12:8999/stream=137.ts
 http://192.168.1.12:8999/stream=138.ts
 #EXTINF:-1 tvg-logo="https://iili.io/JMp3pb2.png" group-title="FTA",VTV HD
 http://192.168.1.12:8999/stream=146.ts
-#EXTINF:-1 tvg-id="Jaktv.id" tvg-logo="https://iili.io/Jbtnm4s.png" group-title="LOKAL",JakTV HD
+#EXTINF:-1 tvg-id="Jaktv.id" tvg-logo="https://iili.io/Jbtnm4s.png" group-title="FTA",JakTV HD
 http://192.168.1.12:8999/stream=139.ts
-#EXTINF:-1 tvg-id="BeritaNasional.id" tvg-logo="https://yt3.googleusercontent.com/uBuAy04swTBlMRFqh3O_rwVfQu5E8_vfT_g7dp1U-TlZ6HObJZbB7ORg6bBF6Il2mbO5ivPfQrQ=s900-c-k-c0x00ffffff-no-rj" group-title="LOKAL",BeritaNasionalTV HD
+#EXTINF:-1 tvg-id="BeritaNasional.id" tvg-logo="https://yt3.googleusercontent.com/uBuAy04swTBlMRFqh3O_rwVfQu5E8_vfT_g7dp1U-TlZ6HObJZbB7ORg6bBF6Il2mbO5ivPfQrQ=s900-c-k-c0x00ffffff-no-rj" group-title="FTA",BeritaNasionalTV HD
 http://192.168.1.12:8999/stream=140.ts
 #EXTINF:-1 tvg-id="TVOne.id" tvg-logo="https://iili.io/JV3xDo7.png" group-title="FTA",tvOne HD
 http://192.168.1.12:8999/stream=141.ts
@@ -62,7 +62,7 @@ http://192.168.1.12:8999/stream=142.ts
 http://192.168.1.12:8999/stream=143.ts
 #EXTINF:-1 tvg-id="SINPO.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe1lUa5vMRlF7HhtOKJU6BpNPwjOzMIttwQg&s" group-title="FTA",SinpoTV HD
 http://192.168.1.12:8999/stream=145.ts
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://iili.io/JMp3Qls.png" group-title="FTA",Trans 7
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://iili.io/JMp3Qls.png" group-title="FTA",Trans 7 HD
 http://192.168.1.12:8999/stream=149.ts
 #EXTINF:-1 tvg-id="Nusantara TV.id" tvg-logo="https://iili.io/2W8UsX2.png" group-title="FTA",Nusantara TV HD
 http://192.168.1.12:8999/stream=153.ts
