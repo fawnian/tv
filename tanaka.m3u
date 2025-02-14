@@ -4,79 +4,79 @@
 ######################################################################TV CHANNELS#############################################################################################################################################
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://iili.io/JMp3wV1.png" group-title="NASIONAL",Indosiar HD
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://iili.io/JMp3wV1.png" group-title="FTA",Indosiar HD
 http://192.168.1.12:8999/stream=117.ts
-#EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://iili.io/JMp3vUJ.png" group-title="NASIONAL",Moji HD
+#EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://iili.io/JMp3vUJ.png" group-title="FTA",Moji HD
 http://192.168.1.12:8999/stream=118.ts
-#EXTINF:0,MentariTV HD
+#EXTINF:-1 tvg-id="Mentari TV.id" tvg-logo="https://iili.io/JmoB4cX.png" group-title="KIDS",Mentari TV
 http://192.168.1.12:8999/stream=119.ts
-#EXTINF:-1 tvg-id="Kompas TV.id" tvg-logo="https://iili.io/JV3x6cG.png" group-title="NATIONAL NEWS",Kompas TV HD
+#EXTINF:-1 tvg-id="Kompas TV.id" tvg-logo="https://iili.io/JV3x6cG.png" group-title="FTA",Kompas TV HD
 http://192.168.1.12:8999/stream=114.ts
-#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://iili.io/JMp3iiX.png" group-title="NASIONAL",SCTV HD
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://iili.io/JMp3iiX.png" group-title="FTA",SCTV HD
 http://192.168.1.12:8999/stream=116.ts
 #EXTINF:0,Republika TV SD
 http://192.168.1.12:8999/stream=113.ts
-#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://iili.io/28yoB87.png" group-title="NASIONAL",BTV HD
+#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://iili.io/28yoB87.png" group-title="FTA",BTV HD
 http://192.168.1.12:8999/stream=124.ts
-#EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://iili.io/JMp3PVt.png" group-title="NASIONAL",RTV HD2
+#EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://iili.io/JMp3PVt.png" group-title="FTA",RTV HD2
 http://192.168.1.12:8999/stream=120.ts
-#EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://iili.io/JMp3PVt.png" group-title="NASIONAL",RTV HD1
+#EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://iili.io/JMp3PVt.png" group-title="FTA",RTV HD1
 http://192.168.1.12:8999/stream=121.ts
 #EXTINF:0,KTV SD
 http://192.168.1.12:8999/stream=122.ts
 #EXTINF:0,CTV HD
 http://192.168.1.12:8999/stream=123.ts
-#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-logo="https://iili.io/JV3x4Fs.png" group-title="NATIONAL NEWS",iNews HD
+#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-logo="https://iili.io/JV3x4Fs.png" group-title="FTA",iNews HD
 http://192.168.1.12:8999/stream=126.ts
-#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-logo="https://iili.io/JMp3joP.png" group-title="NASIONAL",GTV HD
+#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-logo="https://iili.io/JMp3joP.png" group-title="FTA",GTV HD
 http://192.168.1.12:8999/stream=128.ts
-#EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" tvg-logo="https://iili.io/JMp36xI.png" group-title="NASIONAL",RCTI HD
+#EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" tvg-logo="https://iili.io/JMp36xI.png" group-title="FTA",RCTI HD
 http://192.168.1.12:8999/stream=129.ts
-#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-logo="https://iili.io/JMp3kla.png" group-title="NASIONAL",MNCTV HD
+#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-logo="https://iili.io/JMp3kla.png" group-title="FTA",MNCTV HD
 http://192.168.1.12:8999/stream=130.ts
 #EXTINF:0,SmileTV HD
 http://192.168.1.12:8999/stream=134.ts
-#EXTINF:-1 tvg-logo="https://iili.io/JbtCoiu.png" group-title="NATIONAL NEWS",BN Channel HD
+#EXTINF:-1 tvg-logo="https://iili.io/JbtCoiu.png" group-title="FTA",BN Channel HD
 http://192.168.1.12:8999/stream=132.ts
 #EXTINF:0,UGTV
 http://192.168.1.12:8999/stream=133.ts
-#EXTINF:-1 tvg-logo="https://iili.io/JMp3eKg.png" group-title="NASIONAL",MagnaTV HD
+#EXTINF:-1 tvg-logo="https://iili.io/JMp3eKg.png" group-title="FTA",MagnaTV HD
 http://192.168.1.12:8999/stream=131.ts
-#EXTINF:-1 tvg-id="Metro TV.id" tvg-logo="https://iili.io/JV3xZtS.png" group-title="NATIONAL NEWS",MetroTV HD
+#EXTINF:-1 tvg-id="Metro TV.id" tvg-logo="https://iili.io/JV3xZtS.png" group-title="FTA",MetroTV HD
 http://192.168.1.12:8999/stream=135.ts
-#EXTINF:-1 tvg-logo="https://iili.io/2rCEOZl.png" group-title="NASIONAL",GarudaTV HD
+#EXTINF:-1 tvg-logo="https://iili.io/2rCEOZl.png" group-title="FTA",GarudaTV HD
 http://192.168.1.12:8999/stream=137.ts
-#EXTINF:-1 tvg-logo="https://iili.io/dA8evOF.png" group-title="NATIONAL NEWS",Jawa Pos TV (Jakarta)
+#EXTINF:-1 tvg-logo="https://iili.io/dA8evOF.png" group-title="FTA",Jawa Pos TV (Jakarta)
 http://192.168.1.12:8999/stream=138.ts
-#EXTINF:-1 tvg-logo="https://iili.io/JMp3pb2.png" group-title="NASIONAL",VTV HD
+#EXTINF:-1 tvg-logo="https://iili.io/JMp3pb2.png" group-title="FTA",VTV HD
 http://192.168.1.12:8999/stream=146.ts
 #EXTINF:-1 tvg-id="Jaktv.id" tvg-logo="https://iili.io/Jbtnm4s.png" group-title="LOKAL",JakTV HD
 http://192.168.1.12:8999/stream=139.ts
 #EXTINF:0,Berita Nasional TV HD
 http://192.168.1.12:8999/stream=140.ts
-#EXTINF:-1 tvg-id="TVOne.id" tvg-logo="https://iili.io/JV3xDo7.png" group-title="NATIONAL NEWS",tvOne HD
+#EXTINF:-1 tvg-id="TVOne.id" tvg-logo="https://iili.io/JV3xDo7.png" group-title="FTA",tvOne HD
 http://192.168.1.12:8999/stream=141.ts
-#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://iili.io/JMp31cb.png" group-title="NASIONAL",antv HD
+#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://iili.io/JMp31cb.png" group-title="FTA",antv HD
 http://192.168.1.12:8999/stream=142.ts
 #EXTINF:0,MDTV HD
 http://192.168.1.12:8999/stream=143.ts
 #EXTINF:0,SINPO TV HD
 http://192.168.1.12:8999/stream=145.ts
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://iili.io/JMp3Qls.png" group-title="NASIONAL",Trans 7
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://iili.io/JMp3Qls.png" group-title="FTA",Trans 7
 http://192.168.1.12:8999/stream=149.ts
-#EXTINF:-1 tvg-id="Nusantara TV.id" tvg-logo="https://iili.io/2W8UsX2.png" group-title="NASIONAL",Nusantara TV HD
+#EXTINF:-1 tvg-id="Nusantara TV.id" tvg-logo="https://iili.io/2W8UsX2.png" group-title="FTA",Nusantara TV HD
 http://192.168.1.12:8999/stream=153.ts
-#EXTINF:-1 tvg-id="TRANS TV.id" tvg-logo="https://iili.io/JMp3ZUG.png" group-title="NASIONAL",TransTV HD
+#EXTINF:-1 tvg-id="TRANS TV.id" tvg-logo="https://iili.io/JMp3ZUG.png" group-title="FTA",TransTV HD
 http://192.168.1.12:8999/stream=154.ts
 #EXTINF:0,RodjaTV HD
 http://192.168.1.12:8999/stream=152.ts
-#EXTINF:-1 tvg-id="CNN Indonesia.id" tvg-logo="https://iili.io/JV3xSnt.png" group-title="NATIONAL NEWS",CNN Indonesia HD 
+#EXTINF:-1 tvg-id="CNN Indonesia.id" tvg-logo="https://iili.io/JV3xSnt.png" group-title="FTA",CNN Indonesia HD 
 http://192.168.1.12:8999/stream=150.ts
 #EXTINF:0,MDTV HD
 http://192.168.1.12:8999/stream=151.ts
-#EXTINF:-1 tvg-id="CNBC Indonesia.id" tvg-logo="https://iili.io/28yAlAN.png" group-title="NATIONAL NEWS",CNBC Indonesia HD
+#EXTINF:-1 tvg-id="CNBC Indonesia.id" tvg-logo="https://iili.io/28yAlAN.png" group-title="FTA",CNBC Indonesia HD
 http://192.168.1.12:8999/stream=147.ts
-#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://iili.io/JMp3DJf.png" group-title="NASIONAL",TVRI Sport HD
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://iili.io/JMp3DJf.png" group-title="FTA",TVRI Sport HD
 http://192.168.1.12:8999/stream=164.ts
 #EXTINF:0,ElshintaTV
 http://192.168.1.12:8999/stream=165.ts
@@ -84,15 +84,15 @@ http://192.168.1.12:8999/stream=165.ts
 http://192.168.1.12:8999/stream=166.ts
 #EXTINF:0,InspiraTV
 http://192.168.1.12:8999/stream=168.ts
-#EXTINF:-1 tvg-id="Daai TV.id" tvg-logo="https://iili.io/JMp3WNV.png" group-title="NASIONAL",Da Ai TV SD
+#EXTINF:-1 tvg-id="Daai TV.id" tvg-logo="https://iili.io/JMp3WNV.png" group-title="FTA",Da Ai TV SD
 http://192.168.1.12:8999/stream=155.ts
-#EXTINF:-1 tvg-logo="https://iili.io/JmF17zg.png" group-title="NASIONAL",TVRI Jakarta HD
+#EXTINF:-1 tvg-logo="https://iili.io/JmF17zg.png" group-title="FTA",TVRI Jakarta HD
 http://192.168.1.12:8999/stream=157.ts
-#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://iili.io/JMp3DJf.png" group-title="NASIONAL",TVRI Nasional HD
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://iili.io/JMp3DJf.png" group-title="FTA",TVRI Nasional HD
 http://192.168.1.12:8999/stream=158.ts
-#EXTINF:-1 tvg-logo="https://iili.io/JV3xmPe.png" group-title="NATIONAL NEWS",TVRI World HD
+#EXTINF:-1 tvg-logo="https://iili.io/JV3xmPe.png" group-title="FTA",TVRI World HD
 http://192.168.1.12:8999/stream=160.ts
-#EXTINF:-1 tvg-id="Nusantara TV.id" tvg-logo="https://iili.io/2W8UsX2.png" group-title="NASIONAL",Nusantara TV HD
+#EXTINF:-1 tvg-id="Nusantara TV.id" tvg-logo="https://iili.io/2W8UsX2.png" group-title="FTA",Nusantara TV HD
 http://192.168.1.12:8999/stream=162.ts
 #EXTINF:0,tvMu
 http://192.168.1.12:8999/stream=163.ts
